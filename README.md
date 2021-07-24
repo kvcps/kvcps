@@ -1,5 +1,5 @@
 ### 👋 Witaj!
-###  📍 Szczecin
+###  📍  Szczecin
 ###   🔭 sincity.pl <-- INC
 ###     🌊 dsc.gg/mins
 © 2021 𝘛𝘰𝘹𝘪𝘤 𝘏𝘦𝘭𝘭
