@@ -1,8 +1,8 @@
 ### 👋 Witaj!
 ###  📍  Szczecin
-###   🔭 sincity.pl <-- INC
-###     🌊 dsc.gg/mins
-© 2021 𝘛𝘰𝘹𝘪𝘤 𝘏𝘦𝘭𝘭
+###    🌊 dsc.gg/mins
+###      🔭 dsc.gg/zxshop
+
 
 <!--
 **kvcps/kvcps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
