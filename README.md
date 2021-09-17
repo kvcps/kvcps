@@ -1,8 +1,6 @@
 ### 👋 Witaj!
-###  📍  Szczecin
-###    🌊 dsc.gg/mins
-###      🔭 dsc.gg/zxshop
-
+### developer of mic music bot 
+### https://dsc.gg/mic
 
 <!--
 **kvcps/kvcps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
