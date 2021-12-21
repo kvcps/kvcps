@@ -1,5 +1,5 @@
-### 👋 Witaj!
-### developer of mic music bot 
+### hi
+### ceo of mic project
 ### https://dsc.gg/mic
 
 <!--
